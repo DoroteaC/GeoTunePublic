@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap');
+.logo-text{
+  font-family: 'Instrument Serif', serif;
+  color: rgb(3 105 161);
+  font-size: 1.3rem;
+font-weight: 900;
+}
+
+.App {
+  text-align: center;
+  font-family: 'Instrument Serif', serif;
+}
+
+.leaflet-top {
+
+}
+
+.leaflet-left {
+  top:5vh
+}
